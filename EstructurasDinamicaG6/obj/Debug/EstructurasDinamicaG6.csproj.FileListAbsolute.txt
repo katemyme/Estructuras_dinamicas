@@ -1,0 +1,10 @@
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.exe.config
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.exe
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.pdb
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.AssemblyReference.cache
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.FrmPilaVA.resources
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.Properties.Resources.resources
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.GenerateResource.cache
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.exe
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.pdb
