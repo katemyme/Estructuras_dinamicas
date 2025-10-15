@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace EstructurasDinamicaG6
 {
-    public partial class Form1 : Form
+    public partial class FrmPilaAG : Form
     {
-        public Form1()
+        public FrmPilaAG()
         {
             InitializeComponent();
+        }
+
+        private void tbEdad_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
