@@ -8,3 +8,4 @@ C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\Es
 C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.CoreCompileInputs.cache
 C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.exe
 C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.pdb
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\Estructuras\EstructurasDinamicaG6\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.exe.config

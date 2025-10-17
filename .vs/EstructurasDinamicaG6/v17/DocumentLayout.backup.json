@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Alvaro Alcocer\\OneDrive\\Documentos\\Estructuras\\EstructurasDinamicaG6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2255C3D-05E9-4829-B96B-D576312DCAF3}|EstructurasDinamicaG6\\EstructurasDinamicaG6.csproj|c:\\users\\alvaro alcocer\\onedrive\\documentos\\estructuras\\estructurasdinamicag6\\estructurasdinamicag6\\frmpilava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2255C3D-05E9-4829-B96B-D576312DCAF3}|EstructurasDinamicaG6\\EstructurasDinamicaG6.csproj|solutionrelative:estructurasdinamicag6\\frmpilava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2255C3D-05E9-4829-B96B-D576312DCAF3}|EstructurasDinamicaG6\\EstructurasDinamicaG6.csproj|c:\\users\\alvaro alcocer\\onedrive\\documentos\\estructuras\\estructurasdinamicag6\\estructurasdinamicag6\\frmpilava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2255C3D-05E9-4829-B96B-D576312DCAF3}|EstructurasDinamicaG6\\EstructurasDinamicaG6.csproj|solutionrelative:estructurasdinamicag6\\frmpilava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,8 +29,25 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmPilaVa.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro Alcocer\\OneDrive\\Documentos\\Estructuras\\EstructurasDinamicaG6\\EstructurasDinamicaG6\\FrmPilaVa.cs",
+              "RelativeDocumentMoniker": "EstructurasDinamicaG6\\FrmPilaVa.cs",
+              "ToolTip": "C:\\Users\\Alvaro Alcocer\\OneDrive\\Documentos\\Estructuras\\EstructurasDinamicaG6\\EstructurasDinamicaG6\\FrmPilaVa.cs",
+              "RelativeToolTip": "EstructurasDinamicaG6\\FrmPilaVa.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:19:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmPilaVa.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alvaro Alcocer\\OneDrive\\Documentos\\Estructuras\\EstructurasDinamicaG6\\EstructurasDinamicaG6\\FrmPilaVa.cs",
               "RelativeDocumentMoniker": "EstructurasDinamicaG6\\FrmPilaVa.cs",
@@ -35,10 +56,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T15:39:42.662Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
