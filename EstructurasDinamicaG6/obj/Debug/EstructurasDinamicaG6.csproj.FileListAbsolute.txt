@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.exe.config
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.exe
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\bin\Debug\EstructurasDinamicaG6.pdb
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.FrmPilaAG.resources
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.Properties.Resources.resources
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.exe
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.pdb
+C:\Users\andre\OneDrive\Escritorio\UAM\ProgramacionEstructuradaG6\Tareas\Estructuras_dinamicas\EstructurasDinamicaG6\obj\Debug\EstructurasDinamicaG6.exe.config
